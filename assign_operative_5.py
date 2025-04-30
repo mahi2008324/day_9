@@ -1,9 +1,9 @@
-#assignment "-="
-a=8.1
+#assignment "/="
+a=81000
 print(a)
 print(type(a))
 print(id(a))
-a=-81
+a/=100
 print(a)
 print(type(a))
 print(id(a))
